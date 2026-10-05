@@ -1,4 +1,4 @@
-Nucleotides  = ["A","C","T","G"]
+Nucleotides  = ["A","C","G","T"]
 
 def validateSeq(dna_seq):
     tmpseq = dna_seq.upper()
